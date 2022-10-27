@@ -47,23 +47,23 @@ El proceso detallado de lo realizado en cada dataset se muestra en los Jupyter N
       </li>
       <li>
         <strong>Dataset: "sucursal.csv"</strong> 
-        <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Jupyter Notebook</a>
+        <a href="">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "*.csv"</strong> 
-        <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Jupyter Notebook</a>
+        <a href="">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "*.json"</strong> 
-        <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Jupyter Notebook</a>
+        <a href="">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "*.txt"</strong> 
-        <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Jupyter Notebook</a>
+        <a href="">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "*.xlsx"</strong> 
-        <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Jupyter Notebook</a>
+        <a href="">Jupyter Notebook</a>
       </li>
     </ul>
    <h4>
