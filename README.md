@@ -55,15 +55,15 @@ El proceso detallado de lo realizado en cada dataset se muestra en los Jupyter N
       </li>
       <li>
         <strong>Dataset: "*.json"</strong> 
-        <a href="">Jupyter Notebook</a>
+        <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_1_ETL/blob/main/JSON.ipynb">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "*.txt"</strong> 
-        <a href="">Jupyter Notebook</a>
+        <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_1_ETL/blob/main/TEXT.ipynb">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "*.xlsx"</strong> 
-        <a href="">Jupyter Notebook</a>
+        <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_1_ETL/blob/main/EXCEL.ipynb">Jupyter Notebook</a>
       </li>
     </ul>
    <h4>
