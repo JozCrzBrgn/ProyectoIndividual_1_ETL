@@ -24,7 +24,7 @@ Se realizó un script en python que contiene funciones para poder automatizar la
 </ul>
 
 ## _Diagráma de flujo de trabajo del ETL:_
-<img src="/src_appCDT/DDF.png">
+<img src="/src_/DiagramaFlujo_ETL.png">
 
 ## _Explicación:_
 De manera general, el procedimiento de limpieza y carga de los datasets se realizó de la siguiente forma:
