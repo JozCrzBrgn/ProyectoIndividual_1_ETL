@@ -43,6 +43,10 @@ De manera general, el procedimiento de limpieza y carga de los datasets se reali
       <li><strong>Eliminamos Duplicados</strong></li>
       <li><strong>Acomodamos las columnas en un orden estandar</strong></li>
       <li><strong>Cargamos los DataFrame a la base de datos creada en MySQL</strong></li>
+      <li>
+        <strong>Realizamos la query en MySQL</strong>
+        <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_1_ETL/blob/main/MyBase.sql">Jupyter Notebook</a>
+      </li>
     </ul>
    <h4>
 </h3>
