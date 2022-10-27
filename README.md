@@ -33,7 +33,10 @@ De manera general, el procedimiento de limpieza y carga de los datasets se reali
   <i>Procedimiento</i>
   <h4>
     <ul>
-      <li><strong>Creamos el DataFrame</strong></li>
+      <li>
+          <strong>Creamos el DataFrame</strong>
+          <a href="https://drive.google.com/drive/folders/1__XFR67MwwBBR4MTHsAJw1kcALe9eIa4?usp=sharing">(descargar datasets)</a>
+      </li>
       <li><strong>Eliminamos los valores nulos pues su porcentaje es menor al 5% de los datos</strong></li>
       <li><strong>Reemplazamos los valores extraños de acuerdo a cierto criterio</strong></li>
       <li><strong>Cambiamos el tipo de dato de cada columna según sea necesario y congruente</strong></li>
