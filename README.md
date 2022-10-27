@@ -51,7 +51,7 @@ De manera general, el procedimiento de limpieza y carga de los datasets se reali
    <h4>
 </h3>
 
-El proceso detallado de lo realizado en cada dataset se muestra en los Jupyter Notebooks que se muestran a continuación:
+El proceso detallado de lo realizado en cada dataset <a href="https://youtu.be/yHYBRNhUT3c">(Video YouTube)</a> se describe en los Jupyter Notebooks que se muestran a continuación:
 
 <h3>
   <i>Jupyter Notebook con el procedimiento detallado</i>
@@ -84,9 +84,6 @@ El proceso detallado de lo realizado en cada dataset se muestra en los Jupyter N
     </ul>
    <h4>
 </h3>
-
-
-
 
 
 
