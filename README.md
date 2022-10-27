@@ -42,8 +42,8 @@ El proceso detallado de lo realizado en cada dataset se muestra en los Jupyter N
   <h4>
     <ul>
       <li>
-        <strong>Dataset: "producto.parquet"</strong> 
-        <a href="https://github.com/JozCrzBrgn/ColebrookWhite/blob/master/Colebrook-White.ipynb">Jupyter Notebook</a>
+        <strong>Dataset: "producto.parquet"</strong>
+        <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_1_ETL/blob/main/Producto.ipynb">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "sucursal.csv"</strong> 
