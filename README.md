@@ -47,7 +47,7 @@ El proceso detallado de lo realizado en cada dataset se muestra en los Jupyter N
       </li>
       <li>
         <strong>Dataset: "sucursal.csv"</strong> 
-        <a href="">Jupyter Notebook</a>
+        <a href="https://github.com/JozCrzBrgn/ProyectoIndividual_1_ETL/blob/main/Sucursal.ipynb">Jupyter Notebook</a>
       </li>
       <li>
         <strong>Dataset: "*.csv"</strong> 
